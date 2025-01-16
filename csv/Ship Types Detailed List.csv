@@ -1,0 +1,234 @@
+id_detailedtype,detailed_type,id_shiptype
+1,Wing In Ground Effect Vessel,2
+2,Trawler,4
+3,Fishery Protection/Research,4
+4,Fish Carrier,4
+5,Fish Factory,4
+6,Factory Trawler,4
+7,Fish Storage Barge,4
+8,Fishery Research Vessel,4
+9,Fishery Patrol Vessel,4
+10,Fishery Support Vessel,4
+11,Towing Vessel,5
+12,Tug/Tender,5
+13,Tug/Supply Vessel,5
+14,Tug/Fire Fighting Vessel,5
+15,Tug,5
+16,Tug/Pilot Ship,5
+17,Anchor Handling Salvage Tug,5
+18,Towing/Pushing,5
+19,Tug/Ice Breaker,5
+20,Tractor Tug,5
+21,Tug/Support,5
+22,Articulated Pusher Tug,5
+23,Suction Hopper Dredger,7
+24,Dredger,7
+25,Drill Ship,7
+26,Grab Hopper Dredger,7
+27,Grab Dredger,7
+28,Sand Suction Dredger,7
+29,Hopper Dredger,7
+30,Cutter Suction Dredger,7
+31,Cutter Suction Hopper Dredger,7
+32,Suction Dredger,7
+33,Bucket Dredger,7
+34,Trailing Suction Hopper Dredge,7
+35,Trailing Suction Dredger,7
+36,Inland Dredger,7
+37,Drilling Jack Up,7
+38,Bucket Ladder Dredger,7
+39,Drill Barge,7
+40,Bucket Hopper Dredger,7
+41,Bucket Dredger Pontoon,7
+42,Bucket Wheel Suction Dredger,7
+43,Dredging Pontoon,7
+44,Backhoe Dredger,7
+45,Suction Dredger Pontoon,7
+46,Water Jet Dredging Pontoon,7
+47,Grab Dredger Pontoon,7
+48,Kelp Dredger,7
+49,Diving Support Vessel,8
+50,Naval/Naval Auxiliary Vessel,9
+51,Naval Auxiliary Tug,9
+52,Logistics Naval Vessel,9
+53,Mine Hunter,9
+54,Minesweeper,9
+55,Combat Vessel,9
+56,Command Vessel,9
+57,Naval Salvage Vessel,9
+58,Torpedo Recovery Vessel,9
+59,Naval Research Vessel,9
+60,Naval Patrol Vessel,9
+61,Troopship,9
+62,Radar Vessel,9
+63,Sailing Vessel,10
+64,Yacht,11
+65,Museum Ship,11
+66,Exhibition Ship,11
+67,Floating Hotel/Restaurant,11
+68,Theatre Vessel,11
+69,Hydrofoil,14
+70,Hovercraft,14
+71,Salvage/Rescue Vessel,16
+72,Offshore Safety Vessel,16
+73,Standby Safety Vessel,16
+74,Icebreaker,17
+75,Inland Tug,17
+76,Pusher Tug,17
+77,Tender,18
+78,Crew Boat,18
+79,Pilot Ship,18
+80,Supply Tender,18
+81,Pollution Control Vessel,19
+82,Patrol Vessel,20
+83,Hospital Ship,23
+84,Multi Purpose Offshore Vessel,24
+85,Barge Carrier,24
+86,Heavy Lift Vessel,24
+87,Special Vessel,24
+88,Maintenance Vessel,24
+89,Pipe Layer,24
+90,Waste Disposal Vessel,24
+91,Supply Vessel,24
+92,Training Ship,24
+93,Floating Storage/Production,24
+94,Radio Ship,24
+95,Research/Survey Vessel,24
+96,Repair Ship,24
+97,Support Vessel,24
+98,Fire Fighting Tractor Tug,24
+99,Landing Craft,24
+100,Floating Crane,24
+101,Fire Fighting/Supply Vessel,24
+102,Whaler,24
+103,Multi-Purpose Vessel,24
+104,Tank-Cleaning Vessel,24
+105,Mining Vessel,24
+106,Fire Fighting Vessel,24
+107,Paddle Ship,24
+108,Anchor Handling Vessel,24
+109,Nuclear Fuel Carrier,24
+110,Sludge Carrier,24
+111,Whale Factory,24
+112,Utility Vessel,24
+113,Work Vessel,24
+114,Platform,24
+115,Mission Ship,24
+116,Buoy-Laying Vessel,24
+117,Well Stimulation Vessel,24
+118,Motor Hopper,24
+119,Cable Layer,24
+120,Anchor Handling/Fire Fighting,24
+121,Crane Ship,24
+122,Inland Supply Vessel,24
+123,Offshore Supply Ship,24
+124,Trenching Support Vessel,24
+125,Offshore Construction Jack Up,24
+126,Pile Driving Vessel,24
+127,Replenishment Vessel,24
+128,Construction Support Vessel,24
+129,Pipelay Crane Vessel,24
+130,Crane Barge,24
+131,Work Pontoon,24
+132,Production Testing Vessel,24
+133,Floating Sheerleg,24
+134,Mooring Vessel,24
+135,Diving Support Platform,24
+136,Support Jack Up,24
+137,Sealer,24
+138,Trans Shipment Vessel,24
+139,Floating Linkspan,24
+140,Crane Jack Up,24
+141,Pumping Platform,24
+142,Air Cushion Vessel,24
+143,Power Station Vessel,24
+144,Supply Jack Up,24
+145,Radar Platform,24
+146,Jacket Launching Pontoon,24
+147,Pipe Layer Platform,24
+148,Pipe Burying Vessel,24
+149,Air Cushion Patrol Vessel,24
+150,Air Cushion Work Vessel,24
+151,Pearl Shells Carrier,24
+152,Steam Supply Pontoon,24
+153,Incinerator,24
+154,Jack Up Barge,24
+155,Desalination Pontoon,24
+156,Grain Elevating Pontoon,24
+157,Passengers Ship,25
+158,Inland Passengers Ship,25
+159,Inland Ferry,25
+160,Floating Hotel,25
+161,Ferry,25
+162,Ro-Ro/Passenger Ship,25
+163,Accommodation Ship,25
+164,Accommodation Barge,25
+165,Accommodation Jack Up,25
+166,Accommodation Vessel,25
+167,Passengers Landing Craft,25
+168,Houseboat,25
+169,Accommodation Platform,25
+170,Air Cushion Passenger Ship,25
+171,Air Cushion Ro-Ro/Passenger Sh,25
+172,Passenger/Cargo Ship,26
+173,Livestock Carrier,26
+174,Bulk Carrier,26
+175,Ore Carrier,26
+176,General Cargo,26
+177,Wood Chips Carrier,26
+178,Container Ship,26
+179,Ro-Ro Cargo,26
+180,Reefer,26
+181,Heavy Load Carrier,26
+182,Barge,26
+183,Ro-Ro/Container Carrier,26
+184,Inland Cargo,26
+185,Cement Carrier,26
+186,Reefer/Containership,26
+187,Vegetable/Animal Oil Tanker,26
+188,Obo Carrier,26
+189,Vehicles Carrier,26
+190,Inland Ro-Ro Cargo Ship,26
+191,Rail/Vehicles Carrier,26
+192,Pallet Carrier,26
+193,Cargo Barge,26
+194,Hopper Barge,26
+195,Deck Cargo Ship,26
+196,Cargo/Containership,26
+197,Aggregates Carrier,26
+198,Limestone Carrier,26
+199,Ore/Oil Carrier,26
+200,Self Discharging Bulk Carrier,26
+201,Deck Cargo Pontoon,26
+202,Bulk Carrier With Vehicle Deck,26
+203,Pipe Carrier,26
+204,Cement Barge,26
+205,Stone Carrier,26
+206,Bulk Storage Barge,26
+207,Aggregates Barge,26
+208,Timber Carrier,26
+209,Bulker,26
+210,Trans Shipment Barge,26
+211,Powder Carrier,26
+212,Cabu Carrier,26
+213,Vehicle Carrier,26
+214,Cargo,26
+215,Tanker,32
+216,Asphalt/Bitumen Tanker,32
+217,Chemical Tanker,32
+218,Crude Oil Tanker,32
+219,Inland Tanker,32
+220,Fruit Juice Tanker,32
+221,Bunkering Tanker,32
+222,Wine Tanker,32
+223,Oil Products Tanker,32
+224,Oil/Chemical Tanker,32
+225,Water Tanker,32
+226,Tank Barge,32
+227,Edible Oil Tanker,32
+228,Lpg/Chemical Tanker,32
+229,Shuttle Tanker,32
+230,Co2 Tanker,32
+231,Lng Tanker,36
+232,Lpg Tanker,36
+233,Gas Carrier,36

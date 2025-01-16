@@ -1,0 +1,15 @@
+Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,Data source type,A,B,C,D
+02/04/2024 00:00:00,Class A,219017664,56.974943,8.922542,Under way using engine,0,10,346.4,202,Unknown,Unknown,,Fishing,,,,Undefined,,Shengjin,AIS,,,,
+02/04/2024 00:00:00,Class A,219017664,57.531322,9.357055,Under way using engine,1.6,9.5,59.4,60,Unknown,Unknown,,Fishing,,,,Undefined,,Shengjin,AIS,,,,
+02/04/2024 00:00:00,Base Station,219017664,57.110042,8.648282,Unknown value,,12,,,Unknown,Unknown,,Fishing,,,,GPS,,Shengjin,AIS,,,,
+02/04/2024 00:00:00,Class A,219030044,57.028727,9.9438,Unknown value,,13,0,,Unknown,Unknown,,Cargo,,,,Undefined,,Geelong,AIS,,,,
+02/04/2024 00:00:00,Class A,219030044,56.990915,10.304557,Under way using engine,,12,16.8,,Unknown,Unknown,,Cargo,,,,Undefined,,Geelong,AIS,,,,
+02/04/2024 00:00:00,Base Station,219030044,56.447258,10.945872,Unknown value,,12,,,Unknown,Unknown,,Cargo,,,,GPS,,Geelong,AIS,,,,
+02/04/2024 00:00:00,Class B,219017664,91,9.9878,Unknown value,,13,,,Unknown,OU9853,,Fishing,,4,10,Undefined,,Shengjin,AIS,3,7,2,2
+02/04/2024 00:00:00,Class A,511101288,57.521172,8.731452,Under way using engine,0,14.6,235.8,238,Unknown,Unknown,,Cargo,,,,Undefined,,Hastings,AIS,,,,
+02/04/2024 00:00:00,Class A,257414000,56.922687,10.479478,Under way using engine,0,9.2,316.2,322,Unknown,Unknown,,Pilot,,,,Undefined,,Penneshaw,AIS,,,,
+02/04/2024 00:00:00,Base Station,257414000,56.716567,11.519042,Unknown value,,20,,,Unknown,Unknown,,Pilot,,,,GPS,,Penneshaw,AIS,,,,
+02/04/2024 00:00:00,Class A,511101288,91,9.987561,Unknown value,,30,,,9944546,OZGV2,LAURA MAERSK,Cargo,No additional information,32,172,Combined GPS/GLONASS,7.6,Hastings,AIS,154,18,1,31
+02/04/2024 00:00:00,Class A,257414000,56.40831,10.92369,Engaged in fishing,0,20,328.7,81,Unknown,Unknown,,Pilot,,,,Undefined,,Penneshaw,AIS,,,,
+02/04/2024 00:00:00,Class A,257414000,54.57183,11.928727,Under way using engine,,30,145.9,146,Unknown,Unknown,,Pilot,,,,Undefined,,Penneshaw,AIS,,,,
+02/04/2024 00:00:00,Class A,219030044,91,9.897541,Unknown value,,20,,,9944546,OZGV2,LAURA MAERSK,Cargo,No additional information,32,172,Combined GPS/GLONASS,7.6,SEHAD,AIS,154,18,1,31
